@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/1a86ex01.css" type="text/css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2.63889in" height="2.63889in"
+     viewBox="0 0 190 190">
+  
+  <path id="three-0"
+        fill="none" stroke="black" stroke-width="18"
+        d="M 130.67,90.00
+           C 46.62,126.02 43.14,5.90 139.67,30.00
+             169.61,57.96 82.00,169.33 82.00,169.33" />
+
+  <path id="three-1"
+        fill="none" stroke="red" stroke-width="18"
+        d="M 130.67,90.00
+           C 46.62,126.02 43.14,5.90 139.67,30.00
+             169.61,57.96 82.00,169.33 82.00,169.33" class="show-style-2-nine" />
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/1a86ex01.css" type="text/css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2.63889in" height="2.63889in"
+     viewBox="0 0 190 190">
+
+  <defs>
+    <clipPath id="my-clip">
+      <rect x="31" y="76" width="220" height="135" />
+    </clipPath>
+  </defs>
+  
+  <path id="three-0"
+        fill="none" stroke="black" stroke-width="18"
+        d="M 41.00,31.00
+           C 41.00,31.00 141.00,31.00 141.00,31.00
+           L 141.00,31.00 50.00,31
+           L 50.00,22.00 50.00,84.00
+           C  172.13,90.99 166.85,180.86 32.00,174.00" />
+         
+         
+  <path id="three-0"
+        fill="none" stroke="#27A94A" stroke-width="18"
+        d="M 41.00,31.00
+           C 41.00,31.00 141.00,31.00 141.00,31.00
+           L 141.00,31.00 50.00,31
+           L 50.00,22.00 50.00,84.00
+           C  172.13,90.99 166.85,180.86 32.00,174.00" class="show-style-3-five"  />
+
+   <path id="three-0"
+        fill="none" stroke="red" stroke-width="18"
+        d="M 41.00,31.00
+           C 41.00,31.00 141.00,31.00 141.00,31.00
+           L 141.00,31.00 50.00,31
+           L 50.00,22.00 50.00,84.00
+           C  172.13,90.99 166.85,180.86 32.00,174.00" class="show-style-3-five" clip-path="url(#my-clip)" />
+
+</svg>

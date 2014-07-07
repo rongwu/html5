@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/1a86ex01.css" type="text/css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2.63889in" height="2.63889in"
+     viewBox="0 0 190 190">
+  <path id="one-0"
+        fill="none" stroke="black" stroke-width="18"
+        d="M 105.86,0.00
+           C 105.86,0.00 95.00,187.29 95.00,187.29" />
+  
+  <path id="one-1"
+        fill="none" stroke="#27A94A" stroke-width="18"
+        d="M 105.86,0.00
+           C 105.86,0.00 95.00,187.29 95.00,187.29" class="show-style-1" />
+  
+</svg>

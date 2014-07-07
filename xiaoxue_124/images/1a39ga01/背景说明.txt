@@ -1,0 +1,6 @@
+f1: #FDE9D9
+f2: #FCE3DF
+f3: #DFF2F8
+f4: #FFFCD7
+f5: #E4F1DD
+f6: #DFF2F8

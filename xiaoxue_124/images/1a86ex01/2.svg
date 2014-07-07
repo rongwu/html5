@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/1a86ex01.css" type="text/css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2.63889in" height="2.63889in"
+     viewBox="0 0 190 190">
+
+  <defs>
+    <clipPath id="my-clip">
+      <rect x="30" y="160" width="120" height="50" />
+    </clipPath>
+  </defs>
+  
+  <path id="two-0"
+        fill="none" stroke="black" stroke-width="18"
+        d="M 48.00,28.00
+           C 237.57,-31.48 86.87,153.67 38.00,169.00
+           38.00,169.00 136.00,169.00 136.00,169.00" />
+
+  <path id="two-1"
+        fill="none" stroke="red" stroke-width="18"
+        d="M 48.00,28.00
+           C 237.57,-31.48 86.87,153.67 38.00,169.00
+           38.00,169.00 136.00,169.00 136.00,169.00" class="show-style-3-two" />
+
+  <path id="two-2"
+        fill="none" stroke="#27A94A" stroke-width="18"
+        d="M 48.00,28.00
+           C 237.57,-31.48 86.87,153.67 38.00,169.00
+           38.00,169.00 136.00,169.00 136.00,169.00" class="show-style-3-two" clip-path="url(#my-clip)" />
+</svg>

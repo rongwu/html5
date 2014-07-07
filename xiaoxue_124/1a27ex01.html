@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=10" />
+    <title>1a27ex01</title>
+    <link rel="stylesheet" href="css/1a27ex01.css" type="text/css" />
+    <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
+    <script type="text/javascript" src="js/ios-drag-drop.js"></script>
+    <script type="text/javascript" src="js/language_1a27ex01_hk.js"></script>
+    <script type="text/javascript" src="js/1a27ex01.js"></script>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      
+      <!-- start stage -->
+      <div class="select-fruit-box content">
+        <div class="item-title">請先選擇一種水果：</div>
+
+        <div class="fruit-list-item">
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          
+          
+          <div class="clear"></div>
+          <div class="tips">請選擇一種水果</div>
+        </div>
+      </div>
+
+      <!-- select type -->
+      <div class="select-type-box content">
+        <div class="item-title">再選擇類型：</div>
+
+        <div class="select-type-item">
+          <ul>
+            <li></li>
+            <li></li>
+          </ul>
+        </div>
+        
+         <div class="clear"></div>
+         <div class="tips">選擇類型</div>
+      </div>
+
+      <!-- answer box -->
+      <div class="answer-box content">
+        <div class="item-title">將水果擺入方框內，並填入相應的數字：</div>
+        
+        <div class="answer-box-panel">
+          <div class="answer-box-panel-left">
+            <ul>
+              <li></li>
+              <li></li>
+            </ul>
+          </div>
+          <div class="answer-box-panel-fruit">
+            <img src="images/1a27ex01/f1.png" />
+          </div>
+        </div>
+
+
+        <div class="answer-box-panel-bottom">
+          <ul class="answer-type answer-type-1">
+            <li><input type="number" pattern="[0-9]*" name="a_value1" /> <input type="number" pattern="[0-9]*" name="a_value2" /> <input type="number" pattern="[0-9]*" name="a_sum" /></li>
+            <li><input type="number" pattern="[0-9]*" name="value1" />和<input type="number" pattern="[0-9]*" name="value2" />是<input type="number" pattern="[0-9]*" name="sum" />。</li>
+          </ul>
+
+          <ul class="answer-type answer-type-2">
+            <li><input type="number" pattern="[0-9]*" name="a_value1" /> <input type="number" pattern="[0-9]*" name="a_value2" /> <input type="number" pattern="[0-9]*" name="a_sum" /></li>
+            <li><input type="number" pattern="[0-9]*" name="sum" />可以分為<input  type="number" pattern="[0-9]*" name="value1" />和<input type="number" pattern="[0-9]*" name="value2" />。</li>
+          </ul>
+
+          <div class="answer-msg"></div>
+        </div>
+      </div>
+
+      <!-- bottom bar -->
+      <div class="bottom-bar">
+        <div class="restart-btn confirm-btn">確定</div>
+        <div class="restart-btn clear-btn">清除</div>
+        <div class="restart-btn real-restart-btn">重新開始</div>
+       
+       
+      </div>
+
+    </div>
+  </body>
+
+</html>
